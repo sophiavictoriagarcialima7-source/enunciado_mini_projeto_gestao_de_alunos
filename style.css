@@ -1,0 +1,12 @@
+table {
+    box-sizing: border-box;
+    border: 1px solid rgb(184, 196, 207);
+    border-radius: 0.4rem;
+       
+}
+
+th, td {
+    padding: 12px 16px;
+    color: rgb(83, 87, 90);
+    background-color: aliceblue;
+}
