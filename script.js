@@ -299,4 +299,8 @@ botaoLimpar.addEventListener("click", function() {
 
 // INICIALIZAÇÃO DA PÁGINA
 exibirAlunos();
+<<<<<<< HEAD
 atualizarResumo();
+=======
+atualizarResumo();
+>>>>>>> a00c7cc (Atualiza arquivos do projeto)
